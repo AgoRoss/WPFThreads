@@ -1,0 +1,6 @@
+C:\Users\SwAgo\Desktop\rossini.agostino.4h.WPFThreads\rossini.agostino.4h.WPFThreads\obj\Debug\rossini.agostino.4h.WPFThreads.csproj.AssemblyReference.cache
+C:\Users\SwAgo\Desktop\rossini.agostino.4h.WPFThreads\rossini.agostino.4h.WPFThreads\obj\Debug\rossini.agostino.4h.WPFThreads.csproj.SuggestedBindingRedirects.cache
+C:\Users\SwAgo\Desktop\rossini.agostino.4h.WPFThreads\rossini.agostino.4h.WPFThreads\obj\Debug\MainWindow.g.cs
+C:\Users\SwAgo\Desktop\rossini.agostino.4h.WPFThreads\rossini.agostino.4h.WPFThreads\obj\Debug\App.g.cs
+C:\Users\SwAgo\Desktop\rossini.agostino.4h.WPFThreads\rossini.agostino.4h.WPFThreads\obj\Debug\rossini.agostino.4h.WPFThreads_MarkupCompile.cache
+C:\Users\SwAgo\Desktop\rossini.agostino.4h.WPFThreads\rossini.agostino.4h.WPFThreads\obj\Debug\rossini.agostino.4h.WPFThreads_MarkupCompile.lref
